@@ -1,0 +1,12 @@
+Package: sixarm-debian-email-packages
+Version: 1.0.2
+Section: devel
+Priority: optional
+Architecture: all
+Depends: postfix, mb2md, mutt, nano, telnet, spamassassin, spamc
+Maintainer: Joel Parker Henderson <joel@sixarm.com>
+Description: Email packages we like to use
+ Email packages we like to use together.
+
+
+
