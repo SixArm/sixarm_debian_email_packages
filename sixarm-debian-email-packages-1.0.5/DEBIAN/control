@@ -1,0 +1,13 @@
+Package: sixarm-debian-email-packages
+Version: 1.0.5
+Section: devel
+Priority: optional
+Architecture: all
+Depends: abook, mb2md, mutt, nano, postfix, postfix-pcre, pyzor, razor, telnet, spamassassin, spamc, libcrypt-ssleay-perl, libdbi-perl, libhtml-format-perl, libio-socket-inet6-perl, libio-socket-ssl-perl, libmail-dkim-perl, libmail-spf-perl, libmailtools-perl, libnet-ident-perl
+Maintainer: Joel Parker Henderson <joel@sixarm.com>
+Description: Email packages we like to use
+ Email packages we like to use together.
+
+
+
+
